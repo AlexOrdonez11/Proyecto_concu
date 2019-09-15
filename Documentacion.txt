@@ -1,0 +1,6 @@
+Extraer cada archivo del dataset y hacer uno solo llamado Answers.txt
+depues ejecutar el jar depure.jar para limpiar el dataset 
+ejecutar via hadoop "hadoop fs -jar 'ejecutable' 'WordCount o WordPair (clase) ' 'carpeta a mapear y reucir' 'nueva carpeta donde se guardara el reultado'"
+Descargar el archivo con las respuestas con el nombre "part-r-00000.txt o part-r-00001.txt"(1word o 2words) moverlo a la carpeta del proyecto
+ejecutar el jar Ordenar1 o Ordenar 1word o 2words respectivamente
+respuestas en Dataset_Ordenado.txt y Dataset_Ordenado1.txt
