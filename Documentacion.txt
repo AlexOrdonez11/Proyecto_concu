@@ -8,7 +8,7 @@ Jorge Garcia 11711037
 Samuel Flores 11711033
 
 
-1-Extraer cada archivo del dataset y hacer uno solo llamado Answers.txt
+1-Extraer cada archivo del dataset y hacer uno solo llamado Answers.txt y ponerlo en la carpeta principal
 
 2-depues ejecutar el jar depure.jar para limpiar el dataset 
 
